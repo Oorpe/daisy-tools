@@ -1,0 +1,18 @@
+{
+  "name": "utencils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/test.Spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reactivex/rxjs": "^5.5.6",
+    "jasmine-node": "^1.14.5",
+    "mock-stdin": "^0.3.1",
+    "request": "^2.83.0",
+    "rxjs": "^5.5.6"
+  }
+}
